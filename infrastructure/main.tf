@@ -25,8 +25,8 @@ resource "azurerm_service_plan" "plan" {
   sku_name            = "Y1"
 }
 
-resource "azurerm_linux_function_app" "user_func" {
-  name                       = "${var.project_name}-user"
+resource "azurerm_linux_function_app" "order_func" {
+  name                       = "${var.project_name}-order"
   location                   = azurerm_resource_group.main.location
   resource_group_name        = azurerm_resource_group.main.name
   service_plan_id            = azurerm_service_plan.plan.id
