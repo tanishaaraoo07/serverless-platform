@@ -1,0 +1,30 @@
+
+
+## 💡 Future Improvements
+
+* Add Cosmos DB for persistent order/user storage
+* Extend CI/CD pipeline for order-service
+* Add role-based authentication with Azure AD B2C
+
+---
+
+## 👨‍💻 Author
+
+D. Tanisha
+\[Azure Student Subscription - East US]
+Built as a practical cloud engineering portfolio project.
+
+---
+
+## 📸 Screenshots
+
+
+
+![Azure function app for both user/order ](image-3.png)
+---
+![Postman Testing](image.png)
+```
+
+---
+
+

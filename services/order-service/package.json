@@ -1,0 +1,11 @@
+{
+  "name": "order-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "HttpTrigger/index.js",
+  "scripts": {
+    "start": "node HttpTrigger/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
